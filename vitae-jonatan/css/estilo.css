@@ -1,0 +1,83 @@
+body{
+   background: linear-gradient(to top, #000066 0%, #000066 70%);
+	background-size: contain;
+}
+/*----------------------------------------------*/
+a{
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	margin: 20px;
+    padding: 20px;
+    text-shadow: 4px 1px 1px #111111;	
+}
+/*---------------------------------------------*/
+p{
+	color: #ffffff;
+	font-size: 18px;
+	text-align: center;
+	margin: 20px;
+    padding: 20px;
+    text-shadow: 4px 1px 1px #111111;
+}
+/*---------------------------------------------*/
+h1{
+    color: #828271;
+    font-size: 1.2 em;
+    text-shadow: 1.8px 1px 1px #4f4f4f;
+}
+/*----------------------------------------------*/
+* {
+	margin: 0;
+	padding: 0;
+    font-family: consolas, Arial,  helvetica;
+}
+/*----------------------------------------------*/
+#capa{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#CorpoPrincipal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*---------------------------------------------*/
+#CorpoSecundario{
+	background-image: url('../imagens/fundo.jpg');
+	background-position: center;
+    min-height: 500px;
+    background-size: 100%;
+    margin: 0px;
+    padding: 30px 0px 0px 0px;
+}
+/*----------------------------------------------*/
+#efeito{
+    background-color: rgba(0.1, 0.1, 0.1, 0.3);
+    padding: 70px 0px 100px 0px;
+}
+/*---------------------------------------------*/
+#BlocoEfeito{
+    color: #333;
+	width: 1300px;
+	margin: 0;
+}
+/*----------------------------------------------*/
+#nemu{
+    clear: both;
+    float: right;
+    margin-right: inherit;
+}
+/*----------------------------------------------*/
+#menu a{
+    padding: 5px 20px 5px 15px;
+    text-decoration: none;
+    color: #ffde59;
+    text-shadow: 1px 1px #111111;
+}
+/*----------------------------------------------*/
+#menu a:hover{
+    /*background: linear-gradient(to bottom, #000066 0%, #000099 50%);*/
+    background: linear-gradient(to bottom, #000066 0%, #003399 50%);
+/*----------------------------------------------*/
