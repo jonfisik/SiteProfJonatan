@@ -14,8 +14,8 @@ a{
 /*---------------------------------------------*/
 p{
 	color: #ffffff;
-	font-size: 18px;
-	text-align: center;
+	font-size: 17px;
+	text-align: justify;
 	margin: 20px;
     padding: 20px;
     text-shadow: 5px 1px 1px #111111;
@@ -26,7 +26,7 @@ h1{
     text-shadow: 3px 1px 1px #111111; 
     font-size: 60px;
 	text-align: center;
-	margin: 10px;
+	margin: 20px;
 }
 /*----------------------------------------------*/
 * {
@@ -58,19 +58,13 @@ h1{
 /*----------------------------------------------*/
 #efeito{
     background-color: rgba(0.1, 0.1, 0.1, 0.3);
-    padding: 110px 0px 100px 0px;
+    padding: 30px 0px 100px 0px;
 }
 /*---------------------------------------------*/
 #BlocoEfeito{
     color: #333;
 	width: 1300px;
-	margin: 0;
-}
-/*----------------------------------------------*/
-#nemu{
-    clear: both;
-    float: right;
-    margin-right: inherit;
+	margin: 0px;
 }
 /*----------------------------------------------*/
 #menu a{
@@ -89,3 +83,20 @@ h1{
     color: #ffde59;
     padding: 1px; 
 }
+/*----------------------------------------------*/
+.posicao1{
+    width: 30%;
+    float: left;
+    margin: 10px;
+}
+/*----------------------------------------------*/
+.posicao2{
+    width: 30%;
+    float: left;
+    margin: 10px;
+}
+/*----------------------------------------------*/
+.clear{
+    clear: both;
+}
+/*----------------------------------------------*/
