@@ -46,7 +46,8 @@ h1{
 /*---------------------------------------------*/
 #CorpoSecundario{
 	background-image: url('../imagens/fundo.jpg');
-	background-position: center;
+    background-position: center;
+    background-attachment: fixed;
     min-height: 500px;
     background-size: 100%;
     margin: 0px;
@@ -78,6 +79,11 @@ h1{
 }
 /*----------------------------------------------*/
 #menu a:hover{
-    /*background: linear-gradient(to bottom, #000066 0%, #000099 50%);*/
     background: linear-gradient(to bottom, #000066 0%, #003399 50%);
+}
 /*----------------------------------------------*/
+#rodape{
+    text-align: center;
+    color: #ffde59;
+    padding: 1px; 
+}
