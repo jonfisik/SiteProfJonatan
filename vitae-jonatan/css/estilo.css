@@ -84,6 +84,12 @@ h1{
     padding: 1px; 
 }
 /*----------------------------------------------*/
+.destaque{
+    color: #ffde59;
+    text-shadow: 3px 1px 1px #111111; 
+    font-size: 17px;
+}
+/*----------------------------------------------*/
 .posicao1{
     width: 30%;
     float: left;
