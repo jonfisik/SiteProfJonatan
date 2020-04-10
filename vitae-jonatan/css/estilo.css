@@ -29,6 +29,16 @@ h1{
 	margin: 20px;
 }
 /*----------------------------------------------*/
+li{
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+	margin: 20px;
+    padding: 20px;
+    text-shadow: 2px 1px 1px #111111;	
+    list-style-type: none;
+}
+/*---------------------------------------------*/
 * {
 	margin: 0;
 	padding: 0;
@@ -82,6 +92,10 @@ h1{
     text-align: center;
     color: #ffde59;
     padding: 1px; 
+}
+/*----------------------------------------------*/
+#lista a{
+    font-size: 30px;
 }
 /*----------------------------------------------*/
 .destaque{
