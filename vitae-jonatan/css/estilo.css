@@ -98,6 +98,10 @@ li{
     font-size: 30px;
 }
 /*----------------------------------------------*/
+#listapub p{
+    margin: 1px;
+    padding: 1px;
+}
 .destaque{
     color: #ffde59;
     text-shadow: 3px 1px 1px #111111; 
