@@ -1,6 +1,9 @@
 body{
    background: linear-gradient(to top, #000066 0%, #000066 70%);
-	background-size: contain;
+   
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
 /*----------------------------------------------*/
 a{
